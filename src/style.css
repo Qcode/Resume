@@ -14,6 +14,11 @@ main {
     padding-right: 30px;
 }
 
+ul, p {
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
 #sidebar {
     width: 200px;
     float: left;
@@ -39,16 +44,13 @@ p, li {
     line-height: 1.5em;
 }
 
-#volunteering {
-    clear: left;
-}
-
 #sidebar ul {
     padding-left: 20px;
 }
 
 h2 {
     margin-top: 0px;
+    margin-bottom: 6px;
 }
 
 .separator {
